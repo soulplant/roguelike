@@ -1,0 +1,10 @@
+{
+  "name": "FTL Clone",
+  "manifest_version": 2,
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
